@@ -1,7 +1,7 @@
-installation_cost: 10000    # £ including battery storage and maintenance
-expected_unit_rate: 0.2802  # PowerNI current rate for quarterly bill, £/kWh
-sell_back_rate: 0.15       # £ / kWh
+installation_cost: 30000    # £ including battery storage and maintenance
+expected_unit_rate: 0.2839  # PowerNI current rate for quarterly bill, £/kWh
+sell_back_rate: 0.1766       # £ / kWh
 yearly_bill: 14126.03       # £, figure for 2022 to match inflated unit rate.
-ave_hours_daylight: 4       # hours / day
-solar_panel_total_output: 4 # kW
+ave_hours_daylight: 3.44       # hours / day
+solar_panel_total_output: 4.4 # kW
 solar_panel_lifetime: 25    # years
