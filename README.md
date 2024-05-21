@@ -29,4 +29,4 @@ All working out is shown in [this notebook](notebooks/best_estimate.ipynb). I've
 
 ## What can we conclude?
 
-Based on this rough analysis, it seems that a 4kW solar panel installation would provide an annual saving to the church of around £2800, and would pay for itself in around 6 years. There is uncertainty around this number as this depends on how the church uses the electricity the solar panels generate, as well as on electricity prices.
+Based on this rough analysis, it seems that a 12.75kW solar panel installation would provide an annual saving to the church of around £2800, and would pay for itself in around 6 years. There is uncertainty around this number as this depends on how the church uses the electricity the solar panels generate, as well as on electricity prices.
