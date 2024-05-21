@@ -14,10 +14,10 @@ Recent fluctuations in electricity prices are evident. (Note for transparency: I
 At present we use quite rough estimates. If anyone sees a figure they disagree with, reach out and we can update it. We can get a better idea of what to expect if we consult a provider. The figures used in the projections are shown below:
 
 ```
-installation_cost: 30000    # £ including battery storage and maintenance (2 x 10 kWh batteries to account for replacement)
+installation_cost: 17850    # £ including battery storage and maintenance (2 x 10 kWh batteries to account for replacement)
 expected_unit_rate: 0.2839  # PowerNI current rate for quarterly bill, £ / kWh
-sell_back_rate: 0.1766       # £ / kWh
-solar_panel_total_output: 4 # kW
+sell_back_rate: 0.1422       # £ / kWh
+solar_panel_total_output: 12.75 # kW
 solar_panel_lifetime: 25    # years
 ```
 
@@ -29,4 +29,4 @@ All working out is shown in [this notebook](notebooks/best_estimate.ipynb). I've
 
 ## What can we conclude?
 
-Based on this rough analysis, it seems that a 4kW solar panel installation would provide an annual saving to the church of around £1300, and would pay for itself in around 22 years. There is uncertainty around this number as this depends on how the church uses the electricity the solar panels generate, as well as on electricity prices.
+Based on this rough analysis, it seems that a 4kW solar panel installation would provide an annual saving to the church of around £2800, and would pay for itself in around 6 years. There is uncertainty around this number as this depends on how the church uses the electricity the solar panels generate, as well as on electricity prices.
